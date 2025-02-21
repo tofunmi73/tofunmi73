@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jesutofunmi
 - 👀 I’m interested in Art; both traditional and digital
-- 🌱 I’m currently learning Python and AI
+- 🌱 I’m can write c++, Python and Nodejs
 - 💞️ I’m looking to collaborate on all kinds of artistic projects
 - 📫 How to reach me Instagram @jesutofunmi.e
 - 😄 Pronouns: ...
