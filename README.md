@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Jesutofunmi
-- 👀 I’m interested in Art; both traditional and digital
-- 🌱 I write c++, Python and Nodejs
-- 💞️ I’m looking to collaborate on all kinds of artistic projects
-- 📫 How to reach me Instagram @jesutofunmi.e
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+- Full Stack Developer | MERN Stack • Python • TypeScript | Transforming Ideas into Production-Ready Applications
+
 
 <!---
 tofunmi73/tofunmi73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
